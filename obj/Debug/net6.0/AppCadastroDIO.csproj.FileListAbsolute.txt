@@ -1,0 +1,5 @@
+C:\Users\edson\Desktop\AppCadastroDIO\obj\Debug\net6.0\AppCadastroDIO.csproj.AssemblyReference.cache
+C:\Users\edson\Desktop\AppCadastroDIO\obj\Debug\net6.0\AppCadastroDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edson\Desktop\AppCadastroDIO\obj\Debug\net6.0\AppCadastroDIO.AssemblyInfoInputs.cache
+C:\Users\edson\Desktop\AppCadastroDIO\obj\Debug\net6.0\AppCadastroDIO.AssemblyInfo.cs
+C:\Users\edson\Desktop\AppCadastroDIO\obj\Debug\net6.0\AppCadastroDIO.csproj.CoreCompileInputs.cache
